@@ -54,7 +54,7 @@ before submitting your pull requests.
 The following command should work:
 
 ```bash
-xcode-select --install
+xcode-select --install 
 ```
 
 * Users of Apple Silicon Macs should add `build
